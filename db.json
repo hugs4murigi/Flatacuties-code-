@@ -1,0 +1,36 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Mr. Savani",
+        "image": "https://bestanimations.com/gifs/zebra-looking.html",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "name": "Mrs. Monky",
+        "image": "https://bestanimations.com/gifs/zebra-looking.html",
+        "votes": 0
+      },
+      {
+        "id": 3,
+        "name": "Mr. Zebra",
+        "image": "https://bestanimations.com/gifs/zebra-looking.html",
+        "votes": 0
+      },
+      {
+        "id": 4,
+        "name": "Dr. Lion",
+        "image": "https://bestanimations.com/gifs/Lion-King-walk.html",
+        "votes": 0
+      },
+      {
+        "id": 5,
+        "name": "hon. Panda",
+        "image": "https://bestanimations.com/gifs/Baby-Panda.html",
+        "votes": 0
+      }
+    ]
+   }
+   
+   
